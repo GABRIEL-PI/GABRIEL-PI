@@ -1,5 +1,5 @@
 ## Hey there, I am [S1LENT](https://github.com/S1LENT-DEV) 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=S1LENT-DEV)
-[![AkaGiant](https://github-readme-stats.vercel.app/api?username=S1LENT-DEV&show_icons=true&theme=dracula&count_private=true)](https://github.com/S1LENT-DEV)<br/>
+[![S1LENT-DEV](https://github-readme-stats.vercel.app/api?username=S1LENT-DEV&show_icons=true&theme=dracula&count_private=true)](https://github.com/S1LENT-DEV)<br/>
 ### 🤵 - About me 
 - > I'm a Java/JavaScript Developer focusing on Minecraft and Discord Development.
 - > A Majority of the work I have done is closed work but I'm currently working on expanding my public facing work within my portfolio!
