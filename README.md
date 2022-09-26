@@ -7,7 +7,7 @@
 - > I dropped out of University in the United Kingdom after nearly 4 Years due to my Mental and Physical Health. During that time I learnt about my limits and what I truly want to do.
 
 ------------
-### 📖 - **[go Portfolio](https://s1lent-dev.github.io/portifolio/ "Portfolio")**{:target="_blank" rel="noopener"}
+### 📖 - [go Portfolio](https://s1lent-dev.github.io/portifolio/){:target="_blank" rel="noopener"}
 - > View my personal portfolio here!
 - > It's still under rather heavy construction, if you have any tips on how to make it better, please contact me!
 ------------
