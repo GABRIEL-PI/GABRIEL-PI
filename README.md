@@ -3,8 +3,7 @@
 ### 🤵 - About me 
 - > Formation: Software Engineer & Systems Analyst.
 - > I'm a Java/JavaScript Developer focusing on Minecraft and Discord Development.
-- > A Majority of the work I have done is closed work but I'm currently working on expanding my public facing work within my portfolio!
-- > I dropped out of University in the United Kingdom after nearly 4 Years due to my Mental and Physical Health. During that time I learnt about my limits and what I truly want to do.
+- > I'm currently working on expanding my public facing work within my portfolio!
 
 ------------
 ### 📖 - **[Portfolio](https://s1lent-dev.github.io/portifolio/ "Portfolio")**
