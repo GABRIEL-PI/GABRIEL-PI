@@ -6,7 +6,7 @@
 - > I'm currently working on expanding my public facing work within my portfolio!
 
 ------------
-### 📖 - **[Portfolio](https://s1lent-dev.github.io/portifolio/ "Portfolio")**
+### 📖 - **[Portfolio](https://gabriel-pi.github.io/portifolio/ "Portfolio")**
 - > View my personal portfolio here!
 - > It's still under rather heavy construction, if you have any tips on how to make it better, please contact me!
 ------------
