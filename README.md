@@ -12,7 +12,7 @@
 ------------
 
 ### 📖 - Skills
-//- Java Development (SpigotAPI)
+- Java Development (SpigotAPI)
 - JavaScript (Node.js)
 - HTML/CSS
 - Server Administration/Management
