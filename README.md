@@ -21,7 +21,7 @@
 ------------
 
 ### ⌨️ - Projects
-- > **[EteriumNetwork](https://discord.gg/M5xfHQxAFX "EteriumNetwork")**: Diretor/Developer
+- > **[EteriumNetwork](https://discord.gg/M5xfHQxAFX "EteriumNetwork")**: Diretor/Developer.
 - > **[ArcaneServices](https://discord.gg/arcanestudios "ArcaneServices")**: Freelancer & Applications Manager.
 
 ------------
