@@ -12,6 +12,7 @@
 ------------
 
 ### 📖 - Skills
+- Larave/PHP
 - Java Development (SpigotAPI)
 - JavaScript (Node.js)
 - HTML/CSS
