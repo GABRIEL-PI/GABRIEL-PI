@@ -2,7 +2,7 @@
 [![GABRIEL-PI](https://github-readme-stats.vercel.app/api?username=GABRIEL-PI&show_icons=true&theme=dracula&count_private=true)](https://github.com/GABRIEL-PI)<br/>
 ### 🤵 - About me 
 - > Formation: Software Engineer & Systems Analyst.
-- > I'm a Java/JavaScript Developer focusing on Minecraft and Discord Development.
+- > I'm a Java/JavaScript/PHP-Laravel Developer.
 - > I'm currently working on expanding my public facing work within my portfolio!
 
 ------------
