@@ -8,7 +8,6 @@
 ------------
 ### 📖 - **[Portfolio](https://gabriel-pi.github.io/portifoliooo/ "Portfolio")**
 - > View my personal portfolio here!
-- > It's still under rather heavy construction, if you have any tips on how to make it better, please contact me!
 ------------
 
 ### 📖 - Skills
@@ -22,7 +21,7 @@
 ------------
 
 ### ⌨️ - Projects
-- > **[EteriumNetwork](https://discord.gg/M5xfHQxAFX "EteriumNetwork")**: Diretor/Developer.
+- > **[EteriumNetwork](https://discord.gg/M5xfHQxAFX "EteriumNetwork")**: Developer.
 - > **[ArcaneServices](https://discord.gg/arcanestudios "ArcaneServices")**: Freelancer & Applications Manager.
 
 ------------
