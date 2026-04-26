@@ -42,8 +42,8 @@ const gabriel = {
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GABRIEL-PI&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIEL-PI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" />
+<img height="160em" src="https://github-readme-stats-black-omega-13.vercel.app/api?username=GABRIEL-PI&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+<img height="160em" src="https://github-readme-stats-black-omega-13.vercel.app/api/top-langs/?username=GABRIEL-PI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" />
 
 </div>
 
